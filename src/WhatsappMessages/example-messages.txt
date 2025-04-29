@@ -1,0 +1,77 @@
+[01.04.2025, 09:05:00] John: No problem, take your time.
+[01.04.2025, 11:33:00] Elif: Are you free to review the project?
+[01.04.2025, 14:59:00] Elif: No problem, take your time.
+[01.04.2025, 18:30:00] Elif: Got it, see you later!
+[01.04.2025, 20:08:00] John: Don't forget to bring your notes.
+[01.04.2025, 21:13:00] Elif: Yes, let's meet at 2 PM.
+[01.04.2025, 21:44:00] Elif: Can you send me the latest version?
+[02.04.2025, 02:35:00] Elif: No problem, take your time.
+[02.04.2025, 04:21:00] John: Yes, let's meet at 2 PM.
+[02.04.2025, 04:32:00] Elif: Yes, let's meet at 2 PM.
+[02.04.2025, 07:48:00] John: Hey! Are we still meeting today?
+[02.04.2025, 08:22:00] Elif: Can you send me the latest version?
+[02.04.2025, 13:04:00] John: Agreed. I’ll send my part in an hour.
+[02.04.2025, 14:57:00] John: Thanks for the reminder!
+[02.04.2025, 17:00:00] John: Got it, see you later!
+[02.04.2025, 17:21:00] John: Good morning! Don’t forget your laptop.
+[02.04.2025, 18:43:00] Elif: Are you free to review the project?
+[02.04.2025, 22:00:00] John: Hey! Are we still meeting today?
+[03.04.2025, 02:24:00] Elif: Let’s submit the report today.
+[03.04.2025, 03:48:00] Elif: Got it, see you later!
+[03.04.2025, 08:47:00] John: Thanks for the reminder!
+[03.04.2025, 11:21:00] Elif: I'll be a bit late today.
+[03.04.2025, 13:29:00] Elif: Just uploaded it to the shared folder.
+[03.04.2025, 15:27:00] John: Great, thank you!
+[03.04.2025, 15:41:00] Elif: Awesome! I’ll test it now.
+[03.04.2025, 18:04:00] Elif: Can you send me the latest version?
+[03.04.2025, 21:39:00] John: Thanks for the reminder!
+[03.04.2025, 23:05:00] John: I fixed the bug we talked about.
+[03.04.2025, 23:48:00] Elif: I'll be a bit late today.
+[04.04.2025, 00:49:00] Elif: Hey! Are we still meeting today?
+[04.04.2025, 05:32:00] John: Let's meet in the library at 3 PM.
+[04.04.2025, 08:26:00] Elif: Can we reschedule our meeting?
+[04.04.2025, 09:31:00] Elif: Are you free to review the project?
+[04.04.2025, 12:49:00] John: Can we reschedule our meeting?
+[04.04.2025, 14:14:00] Elif: No problem, take your time.
+[04.04.2025, 18:28:00] John: Awesome! I’ll test it now.
+[04.04.2025, 20:47:00] Elif: Sure, I can check it tonight.
+[04.04.2025, 22:24:00] Elif: Can we reschedule our meeting?
+[04.04.2025, 23:25:00] John: Let’s submit the report today.
+[05.04.2025, 03:37:00] John: Can you send me the latest version?
+[05.04.2025, 05:24:00] John: Just uploaded it to the shared folder.
+[05.04.2025, 08:47:00] John: What time is our presentation tomorrow?
+[05.04.2025, 11:28:00] Elif: Let's meet in the library at 3 PM.
+[05.04.2025, 15:03:00] John: Got it, see you later!
+[05.04.2025, 18:57:00] John: I fixed the bug we talked about.
+[05.04.2025, 19:47:00] John: Don't forget to bring your notes.
+[05.04.2025, 22:05:00] Elif: No problem, take your time.
+[06.04.2025, 02:10:00] Elif: What time is our presentation tomorrow?
+[06.04.2025, 04:31:00] Elif: I'll be a bit late today.
+[06.04.2025, 05:18:00] Elif: Awesome! I’ll test it now.
+[06.04.2025, 05:55:00] John: Are you free to review the project?
+[06.04.2025, 09:20:00] John: Let's meet in the library at 3 PM.
+[06.04.2025, 13:56:00] Elif: Yes, let's meet at 2 PM.
+[06.04.2025, 15:22:00] Elif: Can we reschedule our meeting?
+[06.04.2025, 17:53:00] John: Are you free to review the project?
+[06.04.2025, 18:43:00] John: What time is our presentation tomorrow?
+[06.04.2025, 22:08:00] John: No problem, take your time.
+[06.04.2025, 23:06:00] Elif: Good morning! Don’t forget your laptop.
+[09.04.2025, 00:06:00] Elif: :))
+[09.04.2025, 01:32:00] John: No problem, take your time.
+[09.04.2025, 01:47:00] John: Awesome! I’ll test it now.
+[09.04.2025, 02:41:00] Elif: Let’s submit the report today.
+[09.04.2025, 03:09:00] John: Just uploaded it to the shared folder.
+[09.04.2025, 04:34:00] Elif: Let's meet in the library at 3 PM.
+[09.04.2025, 09:06:00] John: Let’s submit the report today.
+[09.04.2025, 12:16:00] Elif: Awesome! I’ll test it now.
+[09.04.2025, 14:10:00] Elif: Awesome! I’ll test it now.
+[09.04.2025, 16:27:00] John: I fixed the bug we talked about.
+[09.04.2025, 17:11:00] Elif: Awesome! I’ll test it now.
+[09.04.2025, 19:56:00] Elif: Yes, let's meet at 2 PM.
+[10.04.2025, 00:06:00] Elif: :))
+[10.04.2025, 00:15:00] John: Hey! Are we still meeting today?
+[10.04.2025, 01:57:00] John: Are you free to review the project?
+[10.04.2025, 04:38:00] Elif: Let's meet in the library at 3 PM.
+[10.04.2025, 07:53:00] John: Are you free to review the project?
+[10.04.2025, 09:45:00] Elif: Can we reschedule our meeting?
+[10.04.2025, 12:05:00] Elif: Can you send me the latest version?
