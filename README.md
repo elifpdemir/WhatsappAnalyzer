@@ -2,6 +2,9 @@
 
 This Java project analyzes a WhatsApp chat exported as a `.txt` file. It calculates how many days two people communicated within a given date range and identifies who initiated the conversation on each day.
 
+![Ekran görüntüsü 2025-04-29 200816](https://github.com/user-attachments/assets/80487b85-717e-4f52-ade6-63831777d6ef)
+
+
 ## Features
 
 - ✅ Takes two dates as input and calculates how many days apart they are
